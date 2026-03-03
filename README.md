@@ -25,12 +25,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### 📊 GitHub 數據
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaindevrick&show_icons=true&theme=radical" alt="Rick's GitHub Stats" />
-</div>
-
 ### 🌐 找到我
 - 🌍 Website: [chaindevrick.github.io](https://chaindevrick.github.io)
 
